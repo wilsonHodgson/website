@@ -15,6 +15,10 @@ name = "portfolio"
 url = "/portfolio"
 
 [[menu.main]]
+name = "blog"
+url = "/posts"
+
+[[menu.main]]
 name = "github"
 url = "https://github.com/wilsonHodgson"
 
