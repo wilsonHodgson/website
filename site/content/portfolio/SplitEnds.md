@@ -5,6 +5,7 @@ summary: "Split Ends is a trading and exploration focused adventure game with a 
 It was made using the Unity3D engine with a team of 10 over the course of 4 months."
 date: 2020-09-09T00:02:07-05:00
 featured_image: "SplitEnds.png"
+draft: false
 ---
 
 Split Ends is a trading and exploration focused adventure game with a variety of mod tools including a scripting system and map editor.
