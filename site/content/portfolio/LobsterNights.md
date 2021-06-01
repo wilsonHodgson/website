@@ -2,8 +2,8 @@
 title: "Lobster Nights"
 subtitle: ""
 summary: "A small passion project involving a first attempt at Test Driven Development"
-date: 2017-09-09T00:02:07-05:00
-featured_image: "Python_project.png"
+date: 2018-06-09T00:02:07-05:00
+featured_image: "LobsterNights.png"
 draft: false
 ---
 

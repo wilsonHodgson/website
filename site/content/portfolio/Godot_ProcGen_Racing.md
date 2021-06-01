@@ -1,9 +1,9 @@
 ---
 title: "Godot Procedural Generated Racing"
 subtitle: ""
-summary: "This is an ongoing project to explore how procedural generated content would fit into racing games"
+summary: "This is an ongoing project to explore how procedural generated content would fit into racing games."
 date: 2018-09-09T00:02:07-05:00
-featured_image: "Godot_project.png"
+featured_image: "Godot_ProcGen_Racing.png"
 draft: false
 ---
 This is an ongoing project to explore how procedural generated content would fit into racing games.
