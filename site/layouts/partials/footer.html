@@ -1,0 +1,13 @@
+{{- block "footer" . }}
+<footer class="footer footer--main container metadata">
+  {{- with .Site.Copyright -}}
+  {{ . }}
+  {{- else -}}
+  &copy; {{ now.Year }} {{- with .Site.Author }} {{ .name }}. {{- end }} <a href='{{ "" | relURL }}'>{{ .Site.Title }}</a>
+  {{- end -}}
+</footer>
+
+</body>
+{{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
+</html>
+{{- end }}
